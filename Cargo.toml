@@ -7,4 +7,4 @@ edition = "2021"
 
 [dependencies]
 clipboard = "*"
-gtk = "0.9"
+# gtk = "0.9"
